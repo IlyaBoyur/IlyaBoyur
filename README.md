@@ -4,7 +4,7 @@ I'm 27 years old **backend** developer.
 
 What I'm already:
 - 🐍 started Python development for a more than 1 year ago
-- 👨‍🎓 graduated from Yandex. Praktikum less than a month ago
+- 👨‍🎓 graduated from Yandex. Praktikum recently
 
 I study right now:
 - flask 
