@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-I'm 27 years old **backend** developer.
+I'm 29 years old **backend** developer.
 
 What I'm already:
 - 🐍 started Python development for a more than 1 year ago
