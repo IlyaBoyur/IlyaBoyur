@@ -3,12 +3,12 @@
 I'm 29 years old **backend** developer.
 
 What I'm already:
-- 🐍 started Python development for a more than 1 year ago
+- 🐍 started Python development for a more than 2 years ago
 - 👨‍🎓 graduated from Yandex. Praktikum recently
 
 I study right now:
 - flask 
-- asyncio, aiohttp
+- ELK
 
 What I'm into:
 - 🏃 morning run (these pleasant 🐕 duties) 
