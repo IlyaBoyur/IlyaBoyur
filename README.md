@@ -1,14 +1,15 @@
 ### Greetings 👋
 
-I'm 29 years old **backend** developer.
+I'm 30 years old **backend** developer.
 
 What I'm already:
-- 🐍 started Python development for a more than 2 years ago
-- 👨‍🎓 graduated from Yandex. Praktikum recently
+- 🐍 started Python development for a more than 5 years ago
+- 🏠 Working 2+ years on Python projects in development, [look what we've done](https://idaproject.com/)
+- 👨‍🎓 graduated from several Yandex.Praktikum studies: created Flask, Django, FastAPI, ETL projects with low level use of SQL and NoSQL DBs
 
 I study right now:
-- flask 
-- ELK
+- System Design 
+- PostgreSQL
 
 What I'm into:
 - 🏃 morning run (these pleasant 🐕 duties) 
